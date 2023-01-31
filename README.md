@@ -51,4 +51,4 @@ You can find the Figma design to implement [here](https://www.figma.com/file/NsO
    - The link to your repository
    - Your resume as an attachment
    - Any other relevant information
-3. In the email subject, please write: "Technical Test for Frontend Developer"
+3. In the email subject, please write: "Technical Test for Frontend Developer" + your name
