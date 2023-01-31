@@ -23,7 +23,7 @@ You can find the Figma design to implement [here](https://www.figma.com/file/NsO
 - [Axios](https://axios-http.com/)
 - [Cypress](https://www.cypress.io/)
 
-> the project is already configured and ready to use these libraries
+> the project is already configured and ready to be used with these libraries
 
 ## Requirements
 
