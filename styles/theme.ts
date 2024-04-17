@@ -35,12 +35,10 @@ export const darkTheme: DefaultTheme = {
 	colors: {
 		// set theme colors
 		gold: '#BEA77E',
-		white: '#FFFFF4',
+		white: '#CCCCCC',
 		grey: '#8E8E8E',
-		darkGrey: '#333030',
-		lighterBlack: '#1D1C1A',
-		black: '#151515',
-		blue: '#98A7F5',
-		green: '#93D788'
+		darkGrey: '#212121',
+		lightGrey: '#7A7A7A',
+		black: '#0F0F0F'
 	}
 };

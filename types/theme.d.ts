@@ -32,10 +32,8 @@ declare module 'styled-components' {
 			white: string;
 			grey: string;
 			darkGrey: string;
-			lighterBlack: string;
+			lightGrey: string;
 			black: string;
-			blue: string;
-			green: string;
 		};
 	}
 }
