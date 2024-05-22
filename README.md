@@ -11,7 +11,7 @@ You can find the Figma design to implement [here](https://www.figma.com/file/gL0
 - Clone this repository
 - Integrate the following pages
   - quests
-  - quests/:slug
+  - quests/:questSlug
 - Implement the "Airdrop Rewards to the Guardian" logic using [Jotai](https://jotai.org/)
 
 > Please note that the API endpoints are already implemented in `/app/api/quests` and `/app/api/quest`
@@ -30,7 +30,8 @@ You can find the Figma design to implement [here](https://www.figma.com/file/gL0
 
 ## Requirements
 
-- Use useQuery hook from react-query to fetch data from the API.
+- Use useQuery hook from react-query to fetch data from the API for the `/quests` page.
+- Leverage the NextJs features to statically generate the `/quests/:questSlug` pages.
 - Use Styled Components to style the application.
 - Use Jotai to manage the "Airdrop Rewards to the Guardian" logic.
 - Make sure the application is fully functional on both desktop and mobile devices.
@@ -49,8 +50,9 @@ You can find the Figma design to implement [here](https://www.figma.com/file/gL0
 
 ## Submitting the test
 
-1. Add [Swiiny](https://github.com/swiiny) as a collaborator to your private repository.
+1. Publish your code to a public repository or add [Swiiny](https://github.com/swiiny) as a collaborator to your private repository.
 2. Send an email to [jobs@nodeguardians.io](mailto:jobs@nodeguardians.io) with the following information:
    - The link to your repository
+   - Your resume as an attachment
    - Any other relevant information
 3. In the email subject, please write: "Technical Test for Frontend Developer" + your name
