@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of this test is to evaluate your skills as a frontend developer. You will be building a small Nextjs application that displays a list of quests and sends the user to the quest page on click.
+The goal of this test is to evaluate your skills as a frontend developer. You will build a small Next.js application that displays a list of quests and navigates the user to the quest page upon clicking.
 
 You can find the Figma design to implement [here](https://www.figma.com/file/gL07N5fiYjJgzC2Iq7rvv8/NG-Frontend-Application?type=design&node-id=0%3A1&mode=design&t=9ypnuVirENWfK9sr-1).
 
@@ -43,10 +43,6 @@ You can find the Figma design to implement [here](https://www.figma.com/file/gL0
 - Correctness of the implementation
 - Performance and scalability
 - Knowledge of the libraries used
-
-## To go the extra mile
-
-- Add any improvements you think are relevant
 
 ## Submitting the test
 
